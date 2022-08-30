@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Taxi driver</string>
+    <string name="source">مبدا</string>
+    <string name="destination">مقصد</string>
+    <string name="accept_travel">قبول سفر</string>
+    <string name="tooman">تومان</string>
+    <string name="off">خاموش</string>
+    <string name="on">روشن</string>
+    <string name="reached_to_source">به مبدا رسیدم</string>
+    <string name="long_press_for_accept_travel">برای قبول سفر لطفا انگشت خود را نگه دارید</string>
+    <string name="long_press_for_accept">چهت تایید لطفا انگشت خود را نگه دارید</string>
+    <string name="routing">مسیریابی</string>
+    <string name="navigation">بزن بریم</string>
+    <string name="passenger_boarded">مسافر سوار شد</string>
+    <string name="passenger_got_off">پایان سفر</string>
+    <string name="cash_price">نقدی %s ریال</string>
+    <string name="you_earned_cash">خسته نباشید\nشما مبلغ %s ریال به صورت نقدی دریافت کرده اید</string>
+    <string name="ok">تایید</string>
+</resources>
